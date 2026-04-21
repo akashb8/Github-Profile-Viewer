@@ -29,7 +29,8 @@ A simple and interactive web application that allows users to search and view Gi
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](<img width="1917" height="952" alt="git ss1" src="https://github.com/user-attachments/assets/5d85f0e8-8b22-48ba-b252-73dbcd2be8b3" />)
+
 
 ---
 
