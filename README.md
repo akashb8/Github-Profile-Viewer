@@ -40,4 +40,4 @@ App Screenshot
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/github-profile-viewer.git
+git clone https://github.com/akashb8/Github-Profile-Viewer
