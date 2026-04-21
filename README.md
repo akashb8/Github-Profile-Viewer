@@ -21,7 +21,7 @@ A simple and interactive web application that allows users to search and view Gi
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / HTML / CSS / JavaScript  
+- **Frontend:** React.js / HTML / CSS . 
 - **API:** GitHub REST API  
 - **Styling:** Tailwind CSS
 
