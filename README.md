@@ -31,6 +31,7 @@ A simple and interactive web application that allows users to search and view Gi
 
 App Screenshot
 
+<img width="1905" height="934" alt="git ss2" src="https://github.com/user-attachments/assets/092e3b64-0493-4bc8-b712-58e1a10ffcf5" />
 <img width="1917" height="952" alt="git ss1" src="https://github.com/user-attachments/assets/5d85f0e8-8b22-48ba-b252-73dbcd2be8b3" />
 
 
