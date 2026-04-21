@@ -23,7 +23,7 @@ A simple and interactive web application that allows users to search and view Gi
 
 - **Frontend:** React.js / HTML / CSS / JavaScript  
 - **API:** GitHub REST API  
-- **Styling:** Tailwind CSS / Bootstrap / CSS  
+- **Styling:** Tailwind CSS
 
 ---
 
