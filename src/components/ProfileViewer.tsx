@@ -23,7 +23,7 @@ export const ProfileViewer: React.FC = () => {
     setReposData([]);
 
     try {
-      const token = import.meta.env.TOKEN;
+      const token = import.meta.env.G_TOKEN;
       const headers = token ? { Authorization: `token ${token}` } : undefined;
 
       const [userRes, reposRes] = await Promise.all([
@@ -105,7 +105,7 @@ export const ProfileViewer: React.FC = () => {
                 <div className="w-4 h-4 rounded-full bg-[#FBBC05] animate-bounce" style={{ animationDelay: '300ms' }}></div>
                 <div className="w-4 h-4 rounded-full bg-[#34A853] animate-bounce" style={{ animationDelay: '450ms' }}></div>
               </div>
-              <p className="text-slate-400 font-medium">Bleep bloop, fetching data...</p>
+              <p className="text-slate-400 font-medium">Akash is, fetching data...</p>
             </div>
           )}
           
